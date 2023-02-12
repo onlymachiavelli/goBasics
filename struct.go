@@ -18,8 +18,4 @@ func main() {
 		fmt.Println("Alaa didn't save his weight ! ") 
 	} 
 	fmt.Println(Alaa)
-
-
-	
-
 }
